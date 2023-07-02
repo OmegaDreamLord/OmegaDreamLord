@@ -1,4 +1,12 @@
-### Hi there 👋
+### :moyai: Hello! Welcome to my profile! :moyai:
+
+
+- I play Electric Guitar :guitar: (Not very good lol)
+- I am a lover of Linux, BSD, and other open source projects!
+- Comedy = Medicine
+- EEEEEE
+
+[![Sign of the horns](horns.png)](http://www.youtube.com/watch?v=2-V8kYT1pvE "Pantera - I'm Broken (Official Music Video) [4K Remaster]")
 
 <!--
 **OmegaDreamLord/OmegaDreamLord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
