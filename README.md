@@ -6,7 +6,7 @@
 - Comedy = Medicine
 - EEEEEE
 
-[![Sign of the horns](horns.png)](http://www.youtube.com/watch?v=2-V8kYT1pvE "Pantera - I'm Broken (Official Music Video) [4K Remaster]")
+[![Sign of the horns](horns.png)](https://youtu.be/_XI1DD_vJuY "Pantera - Revolution Is My Name (Official Music Video) [4K Remaster]")
 
 <!--
 **OmegaDreamLord/OmegaDreamLord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
